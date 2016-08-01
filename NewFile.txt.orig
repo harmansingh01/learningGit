@@ -1,0 +1,6 @@
+this is some new test. nsome. more changes
+<<<<<<< c618c134ba357840b8f1cd3a7692da46957533d6
+new line added 
+=======
+this is new line added from branch 2
+>>>>>>> updated newfile.txt from branch2
